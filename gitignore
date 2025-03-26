@@ -1,0 +1,21 @@
+
+# Не загружать переменные окружения
+.env
+
+# PyInstaller
+dist/
+build/
+__pycache__/
+*.spec
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Python
+*.pyc
+__pycache__/
+
+# OS системные
+.DS_Store
+Thumbs.db
